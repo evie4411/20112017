@@ -27,23 +27,22 @@
 <meta name="viewport" content="width=device-width, inital-scale=1.0">
 
 
-<title>CATCH ME IF YOU CAN</title>
+<title>YOU ARE INVITED TO SHAQ'S BDAY BASH</title>
 
 </head>
 
-
-
 <body>
+
+
+
 
 <div class="container" >
       <div class="col-sm-12">
-          <h1>CATCH ME IF YOU CAN</h1>
+          <h1>YOU BETTER RSVP</h1>
+          <h2> CLICK HERE! </h2>
       </div>
 </div>
 
-<div>
-  <button id="catchme"> CATCH ME </button>
-</div>
 
 </body>
 
