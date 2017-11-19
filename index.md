@@ -38,8 +38,9 @@
 
 <div class="container" >
       <div class="col-sm-12">
-          <h1>YOU BETTER RSVP</h1>
-          <h2> CLICK HERE! </h2>
+        <h1>YOU ARE INVITED TO SHAQ'S BDAY BASH</h1>
+          <h2>YOU BETTER RSVP</h2>
+          <h3 href="rspv.html"> CLICK HERE! </h3>
       </div>
 </div>
 
