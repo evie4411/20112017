@@ -1,12 +1,12 @@
 h1{
-color: black;
+color: white;
 text-align: center;
 font-family: 'Open Sans', sans-serif;
 font-size: 120px;
 }
 
 h2{
-  color: black;
+  color: white;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
   font-size: 50px;
@@ -14,14 +14,16 @@ h2{
 }
 
 h3{
-  color: black;
+  color: white;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
-  font-size: 80px;  
+  font-size: 80px;
 }
 
 
 
 body {
-  background-image:
+  background-image: url("/Users/evie/Documents/LearningToCode/CodeFirstGirlsBeginners/practise/20112017/images/IMG_0522.jpg");
+  background-size:cover;
+  background-attachment: fixed;
 }
