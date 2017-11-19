@@ -35,7 +35,7 @@
 
 <body>
 
-<div id="background">
+<div id="rainbow">
 <div class="container" >
       <div class="col-sm-12">
         <br>
@@ -44,12 +44,28 @@
 </div>
 
 <div class="container" >
-      <div class="col-sm-12">
+      <div align="center" class="col-sm-12">
         <h2>YOU BETTER RSVP</h2>
-        <h3><a href="rspv.html"> CLICK HERE! </a> </h3>
       </div>
 </div>
+
+<div id="clickhere" class="container" >
+        <div align="center" class="col-sm-12">
+        <h3><a href="rspv.html"> CLICK HERE!</a></h3>
+        </div>
 </div>
+
+
+<div>
+  <div id="twitter" class="container">
+  <div align="center" class="col-sm-12">
+  <a href="https://twitter.com/intent/tweet?text=Shaq%20is%20havin%20a%20partay!%20RSVP%20NOW%20https://evie4411.github.io/20112017/"><img src="/Users/evie/Documents/LearningToCode/CodeFirstGirlsBeginners/practise/20112017/images/twitter.png"></a>
+</div>
+</div>
+</div>
+</div>
+
+
 
 
 

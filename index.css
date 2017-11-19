@@ -5,19 +5,88 @@ font-family: 'Open Sans', sans-serif;
 font-size: 120px;
 }
 
-h2{
-  color: white;
-  text-align: center;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 50px;
-
-}
-
-h3{
+#clickhere h3 a{
   color: white;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
   font-size: 80px;
+
+}
+
+h1:hover,
+#clickhere a:hover{
+-webkit-animation:rainbow 1s infinite;
+-ms-animation:rainbow 1s infinite;
+-o-animation:rainbow 1s infinite;
+animation:rainbow 1s infinite;
+text-decoration: none;
+}
+
+@-webkit-keyframes rainbow {
+0% {color: #ff0000;}
+10% {color: #ff8000;}
+20% {color: #ffff00;}
+30% {color: #80ff00;}
+40% {color: #00ff00;}
+50% {color: #00ff80;}
+60% {color: #00ffff;}
+70% {color: #0080ff;}
+80% {color: #0000ff;}
+90% {color: #8000ff;}
+100% {color: #ff0080;}
+}
+
+@-ms-keyframes rainbow {
+0% {color: #ff0000;}
+10% {color: #ff8000;}
+20% {color: #ffff00;}
+30% {color: #80ff00;}
+40% {color: #00ff00;}
+50% {color: #00ff80;}
+60% {color: #00ffff;}
+70% {color: #0080ff;}
+80% {color: #0000ff;}
+90% {color: #8000ff;}
+100% {color: #ff0080;}
+}
+
+@-o-keyframes rainbow {
+0% {color: #ff0000;}
+10% {color: #ff8000;}
+20% {color: #ffff00;}
+30% {color: #80ff00;}
+40% {color: #00ff00;}
+50% {color: #00ff80;}
+60% {color: #00ffff;}
+70% {color: #0080ff;}
+80% {color: #0000ff;}
+90% {color: #8000ff;}
+100% {color: #ff0080;}
+}
+
+@keyframes rainbow {
+0% {color: #ff0000;}
+10% {color: #ff8000;}
+20% {color: #ffff00;}
+30% {color: #80ff00;}
+40% {color: #00ff00;}
+50% {color: #00ff80;}
+60% {color: #00ffff;}
+70% {color: #0080ff;}
+80% {color: #0000ff;}
+90% {color: #8000ff;}
+100% {color: #ff0080;}
+}
+
+
+
+
+h2{
+  color: white;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+
 }
 
 
@@ -26,4 +95,9 @@ body {
   background-image: url("/Users/evie/Documents/LearningToCode/CodeFirstGirlsBeginners/practise/20112017/images/IMG_0522.jpg");
   background-size:cover;
   background-attachment: fixed;
+}
+
+#twitter {
+  color: white;
+  text-align: center;
 }
