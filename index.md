@@ -59,7 +59,7 @@
 <div>
   <div id="twitter" class="container">
   <div align="center" class="col-sm-12">
-  <a href="https://twitter.com/intent/tweet?text=Shaq%20is%20havin%20a%20partay!%20RSVP%20NOW%20https://evie4411.github.io/20112017/"><img src="/Users/evie/Documents/LearningToCode/CodeFirstGirlsBeginners/practise/20112017/images/twitter.png"></a>
+  <a target="_blank" href="https://twitter.com/intent/tweet?text=SHAQ%20IS%20HAVIN%20A%20PARTAY!%20RSVP%20NOW%20https://evie4411.github.io/20112017/"><img src="/20112017/Images/twitter.png"></a>
 </div>
 </div>
 </div>
